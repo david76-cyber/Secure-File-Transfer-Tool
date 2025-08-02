@@ -39,9 +39,7 @@ Edit
 📄 Transfer_Log_YYYY-MM-DD_HH-MM-SS.txt
 
 🖥️ When the script runs, you’ll see:
-powershell
-Copy
-Edit
+
 Choose mode [encrypt/decrypt]: encrypt
 Enter source file path: C:\Users\YourName\Desktop\secret.txt
 Enter destination file path: C:\Users\YourName\Desktop\secret.enc
@@ -51,9 +49,6 @@ Enter password: 1234
 📂 Example Decryption Prompt
 After encryption, you can decrypt it with:
 
-powershell
-Copy
-Edit
 Choose mode [encrypt/decrypt]: decrypt
 Enter source file path: C:\Users\YourName\Desktop\secret.enc
 Enter destination file path: C:\Users\YourName\Desktop\decrypted.txt
